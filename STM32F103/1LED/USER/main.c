@@ -8,12 +8,11 @@
  {	
 	delay_init();	    //延时函数初始化	  
 	LED_Init();		  	//初始化与LED连接的硬件接口
+	LED = 0;
 	while(1)
 	{
-		LED = 0;
+		LED = ~LED;
 		delay_ms(300);	 //延时300ms
-		LED = 1;
-		delay_ms(300);	//延时300ms
 	}
  }
 

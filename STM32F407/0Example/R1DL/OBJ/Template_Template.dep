@@ -121,7 +121,7 @@ I (..\FWLIB\inc\stm32f4xx_can.h)(0x5710F352)
 I (..\FWLIB\inc\stm32f4xx_dac.h)(0x5710F352)
 I (..\FWLIB\inc\stm32f4xx_dcmi.h)(0x5710F352)
 I (..\FWLIB\inc\stm32f4xx_fsmc.h)(0x5710F352)
-F (..\HARDWARE\TIMER\timer.c)(0x62CE31D4)(--c99 -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork -I ..\CORE -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\FWLIB\inc -I ..\HARDWARE\TIMER -I ..\HARDWARE\CAN -I ..\HARDWARE\PID -I ..\HARDWARE\pid_user -I ..\HARDWARE\PWM -I ..\HARDWARE\GPIO -I ..\HARDWARE\duolun-I"D:\Program Files\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include"-D__UVISION_VERSION="537" -DSTM32F407xx -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER-o ..\obj\timer.o --omf_browse ..\obj\timer.crf --depend ..\obj\timer.d)
+F (..\HARDWARE\TIMER\timer.c)(0x64191004)(--c99 -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork -I ..\CORE -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\FWLIB\inc -I ..\HARDWARE\TIMER -I ..\HARDWARE\CAN -I ..\HARDWARE\PID -I ..\HARDWARE\pid_user -I ..\HARDWARE\PWM -I ..\HARDWARE\GPIO -I ..\HARDWARE\duolun-I"D:\Program Files\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include"-D__UVISION_VERSION="537" -DSTM32F407xx -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER-o ..\obj\timer.o --omf_browse ..\obj\timer.crf --depend ..\obj\timer.d)
 I (..\HARDWARE\TIMER\timer.h)(0x60F695A0)
 I (..\SYSTEM\sys\sys.h)(0x5710F354)
 I (..\USER\stm32f4xx.h)(0x6193A530)
@@ -354,7 +354,7 @@ I (..\FWLIB\inc\stm32f4xx_can.h)(0x5710F352)
 I (..\FWLIB\inc\stm32f4xx_dac.h)(0x5710F352)
 I (..\FWLIB\inc\stm32f4xx_dcmi.h)(0x5710F352)
 I (..\FWLIB\inc\stm32f4xx_fsmc.h)(0x5710F352)
-F (..\HARDWARE\duolun\duolun.c)(0x62CD3F60)(--c99 -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork -I ..\CORE -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\FWLIB\inc -I ..\HARDWARE\TIMER -I ..\HARDWARE\CAN -I ..\HARDWARE\PID -I ..\HARDWARE\pid_user -I ..\HARDWARE\PWM -I ..\HARDWARE\GPIO -I ..\HARDWARE\duolun-I"D:\Program Files\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include"-D__UVISION_VERSION="537" -DSTM32F407xx -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER-o ..\obj\duolun.o --omf_browse ..\obj\duolun.crf --depend ..\obj\duolun.d)
+F (..\HARDWARE\duolun\duolun.c)(0x641AD5DE)(--c99 -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork -I ..\CORE -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\FWLIB\inc -I ..\HARDWARE\TIMER -I ..\HARDWARE\CAN -I ..\HARDWARE\PID -I ..\HARDWARE\pid_user -I ..\HARDWARE\PWM -I ..\HARDWARE\GPIO -I ..\HARDWARE\duolun-I"D:\Program Files\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include"-D__UVISION_VERSION="537" -DSTM32F407xx -DSTM32F40_41xxx -DUSE_STDPERIPH_DRIVER-o ..\obj\duolun.o --omf_browse ..\obj\duolun.crf --depend ..\obj\duolun.d)
 I (..\HARDWARE\duolun\duolun.h)(0x62C5C224)
 I (..\SYSTEM\sys\SYS.h)(0x5710F354)
 I (..\USER\stm32f4xx.h)(0x6193A530)
